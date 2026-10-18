@@ -7,8 +7,8 @@ export const coding = [
     url: "https://leetcode.com/u/vkgzp/",
   },
   {
-    rank: "Specialist",
-    rating: "1494",
+    rank: "Expert",
+    rating: "1703",
     platform: "Codeforces",
     url: "https://codeforces.com/profile/Vikasgzp",
   },
