@@ -8,7 +8,7 @@ export const coding = [
   },
   {
     rank: "Expert",
-    rating: "1703",
+    rating: "1725",
     platform: "Codeforces",
     url: "https://codeforces.com/profile/Vikasgzp",
   },
